@@ -6,4 +6,5 @@ int main()
     
 //some changes
     //some error
+    printf("hii");
 }
